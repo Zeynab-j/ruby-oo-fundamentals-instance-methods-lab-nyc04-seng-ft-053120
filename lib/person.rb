@@ -1,12 +1,12 @@
-class Dog
- def bark
-   puts "Woof!"
+class Person
+ def talk
+   puts "Hello World!"
 
-def sit
-  puts "The Dog is sitting"
+def walk
+  puts "The person is walking"
 end
 end
 end
 
-fido = Dog.new
-fido = Dog.new
+fido = Person.new
+fido = Person.new
